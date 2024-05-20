@@ -1,0 +1,10 @@
+# Django Authentication
+    - Tutorial JWT Authentication System in Django and React.js Full Stack Application | Complete Project Tutorial
+    URL = https://www.youtube.com/watch?v=1pIrRTxGnJ4
+    
+
+## Instalar entorno virtual
+    - pip install django
+    - pip install djangorestframework
+    - pip install djangorestframework-simplejwt
+    - pip install django-cors-headers
